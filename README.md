@@ -26,7 +26,7 @@ This is meant to be a _living document_ if you have any suggestions please open 
   - These are a bunch of bite-sized exercises to _"hone your python skills in the comfort of your own browser"_
   - Not focused in data science but I find it useful to not forget simple details.
   
-  * __(tutorials)__ 100+ FREE tutorials from _Real Python_:
+* __(tutorials)__ 100+ FREE tutorials from _Real Python_:
   - https://docs.google.com/spreadsheets/d/1XpBj4_-9HZzYh51WsWeBH1pzHPJIX83-SdUWQgiE3No/edit?usp=sharing
   - _Real Python_'s website has been adding more and more free tutorials. They cover everything from an introduction to Python, to web development, to web scraping, and even data science. These are text tutorials, not video.
   
